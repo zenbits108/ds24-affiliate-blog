@@ -1,0 +1,7 @@
+title: "DS24 Affiliate Reviews"
+description: "Honest affiliate product reviews"
+baseurl: "/affiliate-reviews"
+url: "https://zenbits108.github.io"
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+theme: minima
