@@ -59,7 +59,7 @@ If you're ready to take steps towards reducing stress in your life but aren't su
 
 ## Where to Get It
 
-You can purchase "Reducing Stress with Meditation and Mindfulness" directly from the vendor's website at [this link](https://www.digistore24.com/redir/46059/Lassitor). This e-book is a cost-effective way to gain access to valuable information and practical tips that could significantly enhance your mental health.
+You can purchase "Reducing Stress with Meditation and Mindfulness" directly from the vendor's website at [this link](https://www.digistore24.com/redir/525965/Lassitor). This e-book is a cost-effective way to gain access to valuable information and practical tips that could significantly enhance your mental health.
 
 ## Frequently Asked Questions
 
